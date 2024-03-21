@@ -1,8 +1,7 @@
-In this folder you find the jupyter notebooks with the excercise I solved for
+In this folder you find the jupyter notebooks with the exercises I solved for
 the exams.
-In general, I solved more excercise than required. At the beginning of each
-notebook I declare the excercise for the exams, the extras are appended below
-the 2 necessary excercises.
+At the beginning of each notebook I declare the 2 excercises for the exams, the extras 
+are appended below.
 I'd use the Game-of-Life bonus to skip an excercise in Lecture 8.
 The python package I wrote is in wf_package.
 
